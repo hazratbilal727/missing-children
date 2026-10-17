@@ -1,0 +1,6 @@
+{
+  "name": "Missing Children",
+  "description": "Child safety, reporting, and missing children recovery portal for Pakistan with verified cases, public feed, and confidential sightings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
